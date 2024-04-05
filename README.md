@@ -13,5 +13,5 @@ Looking for opportunities to contribute to open-source projects and collaborate 
 
 Stay Connected:
 
-[LinkedIn Profile Link] 
+[www.linkedin.com/in/victor-hugo-da-silva-mendes-596b8a295] 
 Feel free to reach out if you have any questions or interesting project ideas! 📫
