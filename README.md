@@ -1,12 +1,19 @@
-# Victor Hugo
+## Victor Hugo - Web Developer
+Welcome! 
+I'm Victor Hugo, an aspiring Information Systems student based in Palmas, Paraná, Brazil, with a strong foundation in web development. I'm passionate about creating user-friendly and dynamic web experiences.
 
-👨‍💻 Aspiring Information Systems student based in Palmas, Paraná, Brazil, with a strong foundation in web development.
+## Skills
 
-📚 Currently pursuing a degree in Information Systems, while actively honing my skills in HTML, CSS, JavaScript, React.js, and delving deeper into Node.js.
+--- **Front-End Development: Proficient in HTML, CSS, and JavaScript.**
+**Libraries & Frameworks: Building experience with React.js and eager to learn more.**
+**Back-End Development: Currently expanding my knowledge by learning Node.js.**
 
-💡 Proficient in HTML, CSS, JavaScript, React.js, with a solid understanding of creating dynamic and user-friendly web interfaces.
+## What I'm Working On:
+Continuously honing my web development skills by working on personal projects.
+Looking for opportunities to contribute to open-source projects and collaborate with other developers.
+Stay Connected:
 
-🌱 Eagerly learning Node.js to enhance my expertise in front-end development and expand my technical repertoire.
+[LinkedIn Profile Link] (if applicable)
 
-🚀 Excited to contribute to exciting projects and collaborate with like-minded developers.
+Feel free to reach out if you have any questions or interesting project ideas!
 
