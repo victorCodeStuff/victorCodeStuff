@@ -1,4 +1,4 @@
-## Victor Hugo - Web Developer
+## `Victor Hugo - Web Developer` ##
 Welcome! 
 I'm Victor Hugo, an aspiring Information Systems student based in Palmas, Paraná, Brazil, with a strong foundation in web development. I'm passionate about creating user-friendly and dynamic web experiences. 
 
