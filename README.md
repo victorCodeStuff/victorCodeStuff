@@ -16,6 +16,5 @@ Stay Connected:
 [www.linkedin.com/in/victor-hugo-da-silva-mendes-596b8a295] 
 Feel free to reach out if you have any questions or interesting project ideas! 📫
 
-(https://github-readme-stats.vercel.app/api?username=victorcodestuff&count_private=false&show_icons=true)
-&hide=contribs
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=victorcodestuff&count_private=false&show_icons=true)
